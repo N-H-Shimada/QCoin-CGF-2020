@@ -6,5 +6,6 @@ Please refer to [Install the Microsoft Quantum Development Kit](https://docs.mic
 
 ### Run
 Use ```dotnet run```  command
-<img src="./Teaser1.png" width="320px">
+
+<img src="./Teaser1.png" width="520px">
 
