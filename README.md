@@ -8,5 +8,5 @@ Please refer to [Install the Microsoft Quantum Development Kit](https://docs.mic
 Use ```dotnet run```  command.
 The example of result:
 
-<img src="./Teaser1.png" width="520px">
+<img src="./Teaser1.png" width="450px">
 
