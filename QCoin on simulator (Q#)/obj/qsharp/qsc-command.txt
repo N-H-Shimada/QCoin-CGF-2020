@@ -1,0 +1,12 @@
+:: files ::
+Operations.qs
+:: qsim ::
+:: references ::
+/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.canon/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Canon.dll
+/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll
+/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll
+/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll
+/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll
+:: command ::
+dotnet "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.development.kit/0.5.1902.2802/build/../tools/qsc/qsc.dll" build --format MsBuild  --input "Operations.qs" --references "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.canon/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Canon.dll" "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll" "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll" "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll" "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "/Users/NaoharuShimada/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll" --output obj/qsharp/src/

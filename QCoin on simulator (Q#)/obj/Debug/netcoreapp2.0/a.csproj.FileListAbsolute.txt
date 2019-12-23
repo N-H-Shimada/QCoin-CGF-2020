@@ -1,0 +1,33 @@
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/bin/Debug/netcoreapp2.0/a.deps.json
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/bin/Debug/netcoreapp2.0/a.runtimeconfig.json
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/bin/Debug/netcoreapp2.0/a.runtimeconfig.dev.json
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/bin/Debug/netcoreapp2.0/a.dll
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/bin/Debug/netcoreapp2.0/a.pdb
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/obj/Debug/netcoreapp2.0/a.csprojAssemblyReference.cache
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/obj/Debug/netcoreapp2.0/a.csproj.CoreCompileInputs.cache
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/obj/Debug/netcoreapp2.0/a.AssemblyInfoInputs.cache
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/obj/Debug/netcoreapp2.0/a.AssemblyInfo.cs
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/obj/Debug/netcoreapp2.0/a.dll
+/Users/NaoharuShimada/Desktop/Github用/untitled folder/obj/Debug/netcoreapp2.0/a.pdb
+/Users/NaoharuShimada/Desktop/Github/untitled folder/bin/Debug/netcoreapp2.0/a.deps.json
+/Users/NaoharuShimada/Desktop/Github/untitled folder/bin/Debug/netcoreapp2.0/a.runtimeconfig.json
+/Users/NaoharuShimada/Desktop/Github/untitled folder/bin/Debug/netcoreapp2.0/a.runtimeconfig.dev.json
+/Users/NaoharuShimada/Desktop/Github/untitled folder/bin/Debug/netcoreapp2.0/a.dll
+/Users/NaoharuShimada/Desktop/Github/untitled folder/bin/Debug/netcoreapp2.0/a.pdb
+/Users/NaoharuShimada/Desktop/Github/untitled folder/obj/Debug/netcoreapp2.0/a.csprojAssemblyReference.cache
+/Users/NaoharuShimada/Desktop/Github/untitled folder/obj/Debug/netcoreapp2.0/a.csproj.CoreCompileInputs.cache
+/Users/NaoharuShimada/Desktop/Github/untitled folder/obj/Debug/netcoreapp2.0/a.AssemblyInfoInputs.cache
+/Users/NaoharuShimada/Desktop/Github/untitled folder/obj/Debug/netcoreapp2.0/a.AssemblyInfo.cs
+/Users/NaoharuShimada/Desktop/Github/untitled folder/obj/Debug/netcoreapp2.0/a.dll
+/Users/NaoharuShimada/Desktop/Github/untitled folder/obj/Debug/netcoreapp2.0/a.pdb
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/bin/Debug/netcoreapp2.0/a.deps.json
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/bin/Debug/netcoreapp2.0/a.runtimeconfig.json
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/bin/Debug/netcoreapp2.0/a.runtimeconfig.dev.json
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/bin/Debug/netcoreapp2.0/a.dll
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/bin/Debug/netcoreapp2.0/a.pdb
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/obj/Debug/netcoreapp2.0/a.csprojAssemblyReference.cache
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/obj/Debug/netcoreapp2.0/a.csproj.CoreCompileInputs.cache
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/obj/Debug/netcoreapp2.0/a.AssemblyInfoInputs.cache
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/obj/Debug/netcoreapp2.0/a.AssemblyInfo.cs
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/obj/Debug/netcoreapp2.0/a.dll
+/Users/NaoharuShimada/Desktop/Github/QCoin on simulator (Q#)/obj/Debug/netcoreapp2.0/a.pdb
