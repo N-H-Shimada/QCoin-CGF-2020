@@ -10,6 +10,8 @@ The example of result:
 
 <img src="./Teaser1.png" width="450px">
 
+you can specify values of the number of queries (```Total_Query```)
+
 
 
 ## QCoin on IBMQ (Qiskit)
