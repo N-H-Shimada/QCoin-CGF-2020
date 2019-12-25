@@ -10,7 +10,7 @@ The example of result:
 
 <img src="./Teaser1.png" width="450px">
 
-you can specify values of the number of queries (```Total_Query```), k-steps (```k_max```), and trials (```aa_loop```) in ```Driver.cs```
+You can specify values of the number of queries (```Total_Query```), k-steps (```k_max```), and trials (```aa_loop```) in ```Driver.cs```
 
 
 
