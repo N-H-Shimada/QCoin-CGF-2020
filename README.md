@@ -18,9 +18,7 @@ Please refer to Jupyter notebook ```QSS_on_IBMQ.ipynb```.
 
 
 ## QCoin on IBMQ (Qiskit)
-
-
-### Run
+Please refer to Jupyter notebook.
 
 
 
