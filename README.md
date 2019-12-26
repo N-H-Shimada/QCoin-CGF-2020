@@ -1,6 +1,8 @@
 # QCoin-CGF-2020
 
 ## QCoin on simulator (Q#)
+We reveal a sample code building a quantum circuit as Figure 6 (our paper). You can reproduce the QCoin's results of Figure 7 and Figure 8 by running the code many times with changing input variables appropriately.
+
 ### Install
 Please refer to [Install the Microsoft Quantum Development Kit](https://docs.microsoft.com/en-us/quantum/install-guide/?view=qsharp-preview).
 
