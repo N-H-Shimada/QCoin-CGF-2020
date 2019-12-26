@@ -21,7 +21,7 @@ We show a sample code reproducing a quantum circuit in Figure 9 (our paper) and 
 
 
 ## QCoin on IBMQ (Qiskit)
-We show a Qiskit code building a circuit of Figure 9 and forwarding calculational steps specified in Algorithm 1. You can see reduction of error along with increasing queries. For more information, please refer to Jupyter notebook.
+We show a Qiskit code building a circuit of Figure 9 and forwarding calculational steps specified in Algorithm 1. You can see reduction of error along with increasing queries. For more information, please refer to Jupyter notebook ```QCoin_on_IBMQ.ipynb```.
 
 
 
