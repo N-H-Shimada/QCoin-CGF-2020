@@ -1,4 +1,5 @@
 # QCoin-CGF-2020
+This repository contains sample codes used in the paper: "Quantum Coin Method for Numerical Integration" (CGF link, [arXiv](https://arxiv.org/abs/1910.00263)).
 
 ## QCoin on simulator (Q#)
 We reveal a sample code building a quantum circuit as Figure 6 (our paper). You can reproduce the QCoin's results of Figure 7 and Figure 8 by running the code many times with changing input variables appropriately.
