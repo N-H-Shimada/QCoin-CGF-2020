@@ -17,11 +17,11 @@ You can specify values of the number of queries (```Total_Query```), k-steps (``
 
 
 ## QSS on IBMQ (Qiskit)
-We show a sample code reproducing the quantum circuit in Figure 9 (our paper) and estimating a given target mean value. For more details, please refer to Jupyter notebook ```QSS_on_IBMQ.ipynb```.
+We show a sample code reproducing a quantum circuit in Figure 9 (our paper) and estimating a given target mean value. For more details, please refer to Jupyter notebook ```QSS_on_IBMQ.ipynb```.
 
 
 ## QCoin on IBMQ (Qiskit)
-Please refer to Jupyter notebook.
+We show a Qiskit code building a circuit of Figure 9 and forwarding calculational steps as specified in Algorithm 1. You can see reduction of error along with increasing queries. For more information, please refer to Jupyter notebook.
 
 
 
